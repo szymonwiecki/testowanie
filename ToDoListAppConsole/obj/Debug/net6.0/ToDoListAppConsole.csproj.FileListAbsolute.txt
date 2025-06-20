@@ -1,0 +1,14 @@
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\bin\Debug\net6.0\ToDoListAppConsole.exe
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\bin\Debug\net6.0\ToDoListAppConsole.deps.json
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\bin\Debug\net6.0\ToDoListAppConsole.runtimeconfig.json
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\bin\Debug\net6.0\ToDoListAppConsole.dll
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\bin\Debug\net6.0\ToDoListAppConsole.pdb
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\obj\Debug\net6.0\ToDoListAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\obj\Debug\net6.0\ToDoListAppConsole.AssemblyInfoInputs.cache
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\obj\Debug\net6.0\ToDoListAppConsole.AssemblyInfo.cs
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\obj\Debug\net6.0\ToDoListAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\obj\Debug\net6.0\ToDoListAppConsole.dll
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\obj\Debug\net6.0\refint\ToDoListAppConsole.dll
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\obj\Debug\net6.0\ToDoListAppConsole.pdb
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\obj\Debug\net6.0\ToDoListAppConsole.genruntimeconfig.cache
+C:\Users\szymo\source\repos\ToDoListAppConsole\ToDoListAppConsole\obj\Debug\net6.0\ref\ToDoListAppConsole.dll
